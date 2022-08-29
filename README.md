@@ -2,7 +2,7 @@
 
 <h1 align="left"> Hi coders <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-<p align="left">I'm Pedro Lemos better known as Henry Coder.</p>
+<p align="left">I'm Pedro Lemos better known as Henry Lemos.</p>
 
 ## 📩 Contact me
 
